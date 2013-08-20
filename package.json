@@ -1,0 +1,23 @@
+{
+  "name": "utorrent",
+  "version": "0.0.0",
+  "description": "uTorrent API client",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FLYBYME/node-utorrent.git"
+  },
+  "keywords": [
+    "utorrent"
+  ],
+  "author": "Tim",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "af1ebe6e6b5004450c1f319f320627cb688fe7ec"
+}
